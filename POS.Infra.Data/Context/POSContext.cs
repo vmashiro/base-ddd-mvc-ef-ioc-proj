@@ -23,6 +23,7 @@ namespace POS.Infra.Data.Context
 
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasColumnType("varchar"));
+
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasMaxLength(100));
         }

@@ -9,7 +9,9 @@ namespace POS.Infra.Cross.AutoMapper
         public DataMappingProfile()
         {
             CreateMap<Category, CategoryDTO>().ReverseMap();
+
             CreateMap<Product, ProductDTO>().ReverseMap();
+
             CreateMap<PaymentMethod, PaymentMethodDTO>().ReverseMap();
         }
     }

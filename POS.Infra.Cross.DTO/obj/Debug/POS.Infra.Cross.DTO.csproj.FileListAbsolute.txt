@@ -3,3 +3,9 @@ C:\Projetos\POS\POS.Infra.Cross.DTO\bin\Debug\POS.Infra.Cross.DTO.pdb
 C:\Projetos\POS\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.csprojResolveAssemblyReference.cache
 C:\Projetos\POS\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.dll
 C:\Projetos\POS\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.pdb
+C:\Users\abc\Source\Repos\base-ddd-mvc-ef-ioc-proj\POS.Infra.Cross.DTO\bin\Debug\POS.Infra.Cross.DTO.dll
+C:\Users\abc\Source\Repos\base-ddd-mvc-ef-ioc-proj\POS.Infra.Cross.DTO\bin\Debug\POS.Infra.Cross.DTO.pdb
+C:\Users\abc\Source\Repos\base-ddd-mvc-ef-ioc-proj\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.csprojResolveAssemblyReference.cache
+C:\Users\abc\Source\Repos\base-ddd-mvc-ef-ioc-proj\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.csproj.CoreCompileInputs.cache
+C:\Users\abc\Source\Repos\base-ddd-mvc-ef-ioc-proj\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.dll
+C:\Users\abc\Source\Repos\base-ddd-mvc-ef-ioc-proj\POS.Infra.Cross.DTO\obj\Debug\POS.Infra.Cross.DTO.pdb

@@ -11,9 +11,11 @@ namespace POS.Web.AutoMapper
             CreateMap<CategoryDTO, CategoryViewModel>()
                 .ReverseMap()
                 .ForMember(dto => dto.CreatedAt, opt => opt.Ignore());
+
             CreateMap<ProductDTO, ProductViewModel>()
-                .ReverseMap()
+                .ReverseMap()            
                 .ForMember(dto => dto.CreatedAt, opt => opt.Ignore());
+
             CreateMap<PaymentMethodDTO, PaymentMethodViewModel>()
                 .ReverseMap()
                 .ForMember(dto => dto.CreatedAt, opt => opt.Ignore());
